@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.phonegap.hello-world"
-        version   = "2.2.0">
-    <name>Hello World</name>
+        id        = "nl.vasplus.template"
+        version   = "1.0.0">
+    <name>VASPlus app</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        VASPlus Mobile app template by M M Mahfouz
     </description>
 
-    <author href="http://phonegap.com" email="support@phonegap.com">
+    <author href="http://www.vasplus.nl" email="m.manaf@gmail.com">
         PhoneGap Team
     </author>
 
